@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+int main() 
+{
+	
+     int n,s;
+    printf("Hello, World!\n");
+    scanf("%d",&n);
+    printf("Welcome to C programming.");
+    scanf("%d",&s);
+    
+    
+    
+       
+    return 0;
+}
